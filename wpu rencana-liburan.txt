@@ -8,3 +8,4 @@ RENCANA LIBURAN WPU
 - jakarta
 - kalimantan
 - alun"
+- ngawiji
