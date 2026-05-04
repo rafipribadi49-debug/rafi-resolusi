@@ -4,3 +4,5 @@ RENCANA LIBURAN WPU
 - gunung 
 - yogyakarta
 - malang
+- bali
+- jakarta
